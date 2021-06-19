@@ -2,7 +2,7 @@
 A project submitted by a team from URCET on Pneumonia Detection using Deep Learning
 
 # Packages
-pip install flask
+pip install flask <br/>
 pip install tensorflow
 
 # Process
