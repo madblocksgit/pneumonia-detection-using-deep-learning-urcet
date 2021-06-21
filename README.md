@@ -5,6 +5,7 @@ A project submitted by a team from URCET on Pneumonia Detection using Deep Learn
 pip install flask <br/>
 pip install pandas <br/>
 pip install tensorflow <br/>
+ip install opencv-python <br/>
 
 # Process
 
