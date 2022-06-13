@@ -24,7 +24,7 @@ You, have to execute those packages <br/>
 
 <b>Step - 3: Clone this repo by using the following command</b>
 
-<code>git clone https://github.com/madblocksgit/pneumonia-detection-using-deep-learning-urcet.git</code> <br/> <br/>
+<code>git clone https://github.com/madblocksgit/pneumonia-detection-using-deep-learning.git</code> <br/> <br/>
 So, the project file will be downloaded
 
 <b>Step - 4: Run app.py by using the following command</b>
