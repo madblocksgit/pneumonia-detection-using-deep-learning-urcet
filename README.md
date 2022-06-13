@@ -1,5 +1,5 @@
-# pneumonia-detection-using-deep-learning-urcet
-A project submitted by a team from URCET on Pneumonia Detection using Deep Learning
+# pneumonia-detection-using-deep-learning
+A project on Pneumonia Detection using Deep Learning
 
 # Packages
 pip install flask <br/>
