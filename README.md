@@ -1,33 +1,22 @@
 # pneumonia-detection-using-deep-learning
 A project on Pneumonia Detection using Deep Learning
 
+# Softwares
+1. VS Code
+2. Python3
+3. Git
+
 # Packages
-pip install flask <br/>
+pip install streamlit <br/>
 pip install pandas <br/>
 pip install tensorflow <br/>
-ip install opencv-python <br/>
+pip install opencv-python <br/>
 
 # Process
 
-<b>Step - 0: Open Anaconda Prompt</b>
+1. Install Softwares
+2. Install Packages
+3. streamlit run app.py
 
-<b>Step - 1: Create a virtual environment through python using the following command</b>
-
-<code>python -m venv project</code> <br/><br/>
-So, a virtual environment with name project will be created
-
-<b>Step - 2: Activate the virtual environment</b>
-
-<code>project\Scripts\activate</code> <br/> <br/>
-So, virtual environment will be activated <br/>
-You, have to execute those packages <br/>
-
-<b>Step - 3: Clone this repo by using the following command</b>
-
-<code>git clone https://github.com/madblocksgit/pneumonia-detection-using-deep-learning.git</code> <br/> <br/>
-So, the project file will be downloaded
-
-<b>Step - 4: Run app.py by using the following command</b>
-
-<code>python app.py </code> <br/><br/>
-for testing this model, we have created a validation dataset.
+# Questions
+For questions, do reach me on <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
